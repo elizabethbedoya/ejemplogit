@@ -1,0 +1,24 @@
+body {
+
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    line-height: 1.6;
+}
+
+h1,h2{
+text-align: center;
+margin: 20px 0;
+
+
+}
+
+p {
+    text-align: center;
+    margin: 10px 0;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
